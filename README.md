@@ -1,9 +1,9 @@
 Hasil JMeter GUI (Before refactor profiling):  
-![](test-1.png)  
-![](test-2.png)  
-![](test-3.png)
+![](test-1.jpg)  
+![](test-2.jpg)  
+![](test-3.jpg)
 
 Hasil JMeter CMD (Before refactor profiling):  
-![](jtl-1-before.png)  
-![](jtl-2-before.png)  
-![](jtl-3-before.png)  
+![](jtl-1-before.jpg)  
+![](jtl-2-before.jpg)  
+![](jtl-3-before.jpg)  
